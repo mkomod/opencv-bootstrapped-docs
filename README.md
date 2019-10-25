@@ -12,7 +12,7 @@ This form of the docs should serve as a convenient means by which to read the co
 
 ## Screenshot
 
-![screenshot.png](https://github.com/mkomod/opencv-bootstrapped-docs/screenshot.png)
+[screenshot.png](https://github.com/mkomod/opencv-bootstrapped-docs/screenshot.png)
 
 
 ## Known Issues
