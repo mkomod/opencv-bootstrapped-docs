@@ -10,6 +10,10 @@ $ git clone https://github.com/mkomod/opencv-bootstrapped-docs
 
 This form of the docs should serve as a convenient means by which to read the content.
 
+## Screenshot
+
+![screenshot.png](https://github.com/mkomod/opencv-bootstrapped-docs/screenshot.png)
+
 
 ## Known Issues
 
